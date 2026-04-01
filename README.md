@@ -8,7 +8,7 @@ O app integra cinco "mini-apps" em uma única plataforma, incluíndo:
 
 - Um sistema de compras com cálculo automático de produtos inseridos.
 
-- sistema de cálculo de salário
+- Um sistema de cálculo de salário
 
 - Lanche Fácil: uma lanchonete virtual com registro de pedidos realizados pelos clientes
 
